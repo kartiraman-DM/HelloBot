@@ -1,0 +1,39 @@
+D:\BotWorkspace\HelloBot\HelloBot\bin\Bot Application1.dll.config
+D:\BotWorkspace\HelloBot\HelloBot\bin\Bot Application1.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Bot Application1.pdb
+D:\BotWorkspace\HelloBot\HelloBot\bin\Autofac.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Chronic.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.Bot.Connector.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Newtonsoft.Json.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.Net.Http.Formatting.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.Web.Http.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.Web.Http.WebHost.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\Autofac.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.Bot.Connector.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\Newtonsoft.Json.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.Net.Http.Formatting.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.Web.Http.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\System.Web.Http.WebHost.xml
+D:\BotWorkspace\HelloBot\HelloBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\BotWorkspace\HelloBot\HelloBot\obj\Debug\HelloBot.csprojResolveAssemblyReference.cache
+D:\BotWorkspace\HelloBot\HelloBot\obj\Debug\Bot Application1.dll
+D:\BotWorkspace\HelloBot\HelloBot\obj\Debug\Bot Application1.pdb
